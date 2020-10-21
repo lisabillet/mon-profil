@@ -1,0 +1,84 @@
+body {
+background-color: #E5E5E5;
+    font-family: 'Open Sans', sans-serif;
+  font-weight: 100
+letter-spacing: 5px;
+}
+h1{
+color: black;
+font-family: Courier;
+  font-weight:800;
+letter-spacing:10px;
+font-size: 35px;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+h3{
+font-size: 10px;
+font-size: 50px;
+}
+
+h3{
+color: #954D0F;
+font-size: 15px;
+}
+
+p{
+color: black;
+}
+
+a{
+text-decoration: none;
+color: yellow;
+}
+
+a:hover{
+text-transform: underline;
+color: white;
+}
+
+#lisa{
+border-radius:30%;
+border-left: 100px auto;
+}
+.parties-center{
+margin: auto;
+box-shadow: 0px 10px 30px rgba (0,0,0,0.1)
+}
+
+.container{
+background: white;
+padding:;
+margin:;
+box-shadow:;
+border-radius:;
+}
+
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+div{
+	text-align: center;
+    background-color: #fff;
+    color: rgba(0,0,0,0.6);
+    width: 1000px;
+	border-radius: 10px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 0px 0px 24px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 24px -10px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 24px -10px rgba(0,0,0,0.75);
+
+}
